@@ -1,0 +1,126 @@
+
+.con{
+    background: url('https://designshack.net/wp-content/uploads/wood-background.jpg');
+    height: 700px;
+}
+
+.center{
+    float:right ;
+    margin-top: 100px;
+    margin-right: 250px;
+    width: 800px;
+    height:500px;
+    background-color: white;
+    position: relative;
+}
+
+.aline{
+    margin-top: 10px;
+    display: flex;
+}
+.img img{
+    width: 400px;
+    height:480px ;
+    background-color: aqua;
+}
+
+form{
+    margin-left: 10px;
+}
+form input{
+    margin-bottom: 10px;
+    margin-left: 20px;
+    
+}
+.right{
+    padding-top: 50px;
+    width: 400px;
+}
+.right h4{
+    padding-left:50px;
+    margin-bottom: 20px;
+    margin-top: -50px;
+}
+.btn17{
+    margin-top: 10px;
+    border: 0;
+    color: white;
+    width: 200px;
+    height: 50px;
+    background-color: rgba(0, 0, 0, 0.849);
+    margin-left: 50px;
+}
+.btn1{
+    margin-top: 10px;
+    border: 0;
+    color: white;
+    width: 200px;
+    height: 50px;
+    background-color: rgba(0, 0, 0, 0.849);
+    margin-left: 50px;
+    border-radius: 5px;
+}
+.right span{
+    margin-left: 30px;
+}
+.right .link{
+    text-decoration: none;
+    margin-left: 30px;
+    color: black;
+}
+
+
+.box{
+    width: 700px;
+    height: 400px;
+    background:rgb(7, 146, 170);
+    margin-top: 100px;
+    margin-left: 200px;
+    border: 1px solid;
+    box-shadow: gray 5px 10px;
+    position: relative;
+}
+
+.box .for{
+    padding-top: 30px;
+}
+.box input{
+    /* background:rgb(7, 146, 170); */
+    width: 500px;
+    margin-left: 100px;
+    margin-top: 15px;
+}
+ .box .click{
+    background: black ;
+    color: white;
+    width: 200px;
+    height: 50px;
+    border-radius: 10px;
+    font-size: large;
+    margin-left: 10px;
+ }
+
+
+ .google {
+    margin-left: 600px;
+    margin-top: 100px;
+   
+ }
+
+ .facebook{
+    margin-top: 100px;
+    margin-left: 20px;
+    
+ }
+
+ .user-err{
+    color: red;
+   margin-left: 10px;
+   
+ }
+.right img{
+    margin-left: 10px;
+}
+.icon{
+    margin-left: 50px;
+}

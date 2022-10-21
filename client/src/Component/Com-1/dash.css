@@ -1,0 +1,76 @@
+.btn7{
+    margin-left: 25px;
+    height: 40px;
+    border-radius: 4px;
+    border: 0;
+    background-color: black;
+    color: white;
+    
+}
+.top{
+    width: 82%;
+    margin-left: 245px;
+    background: rgb(35, 55, 68);
+}
+.top h5{
+    margin-left: 150px;
+    color:white;
+    cursor: pointer;
+    font-weight: 400;
+}
+.search1{
+    margin-top: 10px;
+    width: 500px;
+}
+
+.dashcon{
+    margin-top: 80px;
+    background-color: whitesmoke;
+    color: black;
+    display: flex;
+}
+.left-bar{
+    background: rgb(35, 55, 68);
+    width: 300px;
+    margin-top: -80px;
+    margin-bottom: -80px;
+}
+.left-bar li{
+    text-align: justify;
+    padding-left: 40px;
+    padding-top: 20px;
+    margin-top: 5px;
+    cursor: pointer;
+}
+.left-bar a{
+    color: white;
+}
+.pro-head th{
+    color: black;
+    font-weight: 600;
+}
+.left-bar img{
+    width: 200px;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+.sub{
+    height: 40px;
+    width: 150px;
+    border: 0;
+    background: rgb(60, 206, 206);
+}
+.dashfle{
+    padding-top: 70px;
+    margin-left: 120px;
+    width: 80%;
+    padding-bottom: 50px;
+    
+}
+
+.dash_list table{
+margin-top: -5px;
+border: 2px solid black;
+height: 400px;
+
+}

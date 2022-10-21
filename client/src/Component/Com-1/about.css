@@ -1,0 +1,36 @@
+.about-full{
+    margin-top: 100px;
+}
+.about-full h3{
+    color: rgba(0, 0, 0, 0.527);
+}
+.about-1{
+    display: flex;
+}
+.about-1 h6{
+    text-align: justify;
+    margin-left: 50px;
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+
+.about-1 h2{
+    text-align: justify;
+    color: rgba(0, 0, 0, 0.527);
+}
+.about-1 h3{
+    text-align: justify;
+    margin-left: 50px;
+    color: rgba(0, 0, 0, 0.527);
+}
+.about-1 i{
+    text-align: justify;
+}
+.about-1 p{
+    margin-left: 50px;
+    color: rgba(0, 0, 0, 0.527);
+}
+.about-1 img{
+    width: 50%;
+}
+

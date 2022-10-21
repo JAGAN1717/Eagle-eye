@@ -1,0 +1,361 @@
+.logo{
+    width: 300px;
+}
+.home-full{
+  background: whitesmoke;
+}
+.search{
+    width: 500px;
+    height: 35px;
+    margin-top: 10px;
+    border: 1px solid black;
+    border-right: 0;
+    border-radius: 5px;
+}
+.btn2{
+  width: 40px;
+  height:35px;
+  margin-top: 10px;
+  border: 1px solid black;
+  border-left: 0;
+  background-color: white;
+  margin-left: -10px;
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
+}
+.profile h5{
+  width: 100px;
+  height: 30px;
+  background-color:rgb(53, 119, 218);
+  color: white;
+  border-radius: 15px;
+  margin-top: 10px;
+  cursor: pointer;
+}
+
+.cover{
+  background-color: whitesmoke;
+padding-top: 70px;
+}
+.cursor span{
+  cursor: pointer;
+}
+
+.type {
+  float: left;
+  margin-left: 20px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  border-radius: 10px;
+ width: 200px;
+ height: 130px;
+ background-color: white;
+ display: inline;
+ 
+}
+.type img{
+  width: 190px;
+  margin-top: 5px;
+}
+.type:hover{
+  background-color:rgb(76, 156, 231);
+  transform: translate(-5px);
+}
+.slideShow{
+  margin-top: 150px;
+  padding: 0;
+  background-color: floralwhite;
+}
+.slid-frame{
+  /* overflow: hidden; */
+  width: 1330px;
+  height: 350px;
+  margin-left: 10px;
+  /* -webkit-box-shadow: 0px 0px 14px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 0px 0px 14px 0px rgba(0,0,0,0.75);
+box-shadow: 0px 0px 14px 0px rgba(0,0,0,0.75); */
+  background: url("https://static1.lenskart.com/media/desktop/img/May%2022/web-banner-1.gif");
+  animation: slide 30s infinite;  
+}
+/* slid animate */
+@keyframes slide{
+  25%{
+      background: url("https://static1.lenskart.com/media/desktop/img/June22/8_crystal.jpg"); 
+  }
+  50%{
+      background: url("https://static1.lenskart.com/media/desktop/img/June22/wrap-desk.jpg");
+  }
+  75%{
+      background: url("https://static1.lenskart.com/media/desktop/img/May22/2-May/HM5.png");
+  }
+  100%{
+      background: url("https://static1.lenskart.com/media/desktop/img/Apr22/prescription%20web%20banners.png");
+  }
+}
+
+.off{
+  margin-top: 40px;
+}
+.off img{
+  width: 100%;
+}
+.off2{
+  margin-top: 250px;
+}
+.off2 img{
+  width: 100%;
+}
+.trend-product{
+ display: flex;
+  margin-top: 50px;
+}
+
+.trend-product h4{
+margin-top: 3px;
+
+}
+.trend-product img {
+  width: 200px;
+}
+.trend-product button{
+  background: rgb(116, 182, 245);
+  width: 150px;
+  height: 40px;
+  border: 0;
+  border-radius: 5px;
+}
+.product-items{
+  margin-left: 20px;
+}
+.gif img{
+  margin-top: 50px; 
+  width: 150%;
+  margin-left: -500px;
+}
+.gif{
+  margin-top:60px;
+  margin-bottom: 10px;
+}
+.line h3{
+  width: 100%; 
+  text-align: center;
+  border-bottom: 1px solid #000; 
+  line-height: 0.2em;
+}
+.line{
+  margin-top: 50px;
+}
+.line h3 span{
+  background:#fff; 
+  padding:0 10px; 
+
+}
+
+
+.navclick{
+  color: white;
+  font-size: 20px;
+  margin-right: 20px;
+  
+}
+
+.drob-con{
+  margin-top: 0px;
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 100px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+  border-radius: 10px;
+-webkit-box-shadow: 0px 0px 14px 1px rgba(0,0,0,0.75);
+-moz-box-shadow: 0px 0px 14px 1px rgba(0,0,0,0.75);
+box-shadow: 0px 0px 14px 1px rgba(0,0,0,0.75);
+}
+.drobdown{
+ 
+  position: relative;
+  display: inline-block;
+
+}
+
+
+.drob-con p {
+  color: #000;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+.drob-con p:hover {background-color: #f1f1f1}
+
+.drobdown:hover .drob-con{
+  display: block;
+}
+.flex{
+  margin-top: 80px;
+  display: grid;
+  grid: 300px 300px / auto  auto ;
+  padding-bottom: 400px;
+  
+}
+.mode{
+  margin-left: -500px;
+}
+.flex img{
+  margin-top: 13px;
+  width: 100%;
+}
+.addver{
+  margin-left: 10px;
+}
+
+.footer{
+ margin-top: 80px;
+  background: rgb(1, 17, 70);
+  color: white;
+  height: 400px;
+ position: relative;
+}
+.footer h4{
+  text-align: start;
+  margin-left: 100px;
+  padding-top: 40px;
+}
+.footer p{
+  text-align: start;
+  margin-left: 100px;
+  padding-top: 0px;
+  font-style: italic;
+}
+.foot{
+  display: flex;
+
+}
+.cont{
+  margin-left: 50px;
+  font-style: italic;
+}
+ .cont span{
+  margin-right: 60px;
+ }
+
+.cont li{
+  text-align: start;
+ }
+
+ .cont img{
+  width: 150px;
+ }
+ .cont p{
+  margin-top: -40px;
+  margin-left: -5px;
+ }
+ .NAV2 a{
+color: rgb(90, 85, 85);
+ }
+
+ .adm{
+  margin-top: 80px;
+  margin-bottom: -70px;
+ }
+
+ .cart-count{
+  background-color: red;
+  border-radius: 10px;
+  padding-left: 5px;
+  padding-right: 5px;
+  border: 1px solid white;
+  color: white;
+
+ }
+
+ .pay-btn{
+  width: 15%;
+  height: 40px;
+  border: 0;
+  border-radius: 5px;
+  background: rgb(17, 167, 236);
+ }
+
+ .paypal-gate{
+  width: 700px;
+margin-left: 150px;
+  background-color: white;
+  padding-top: 10px;
+  padding-left: 20px;
+  margin-bottom: 100px;
+  padding-bottom: 50px;
+ }
+ .paypal-gate img{
+  width: 50%;
+  margin-left: 100px;
+  margin-right: 90px;
+ }
+ .paypal-gate li{
+  margin-top: 50px;
+ }
+
+.verify1{
+  margin-top: 100px;
+  margin-left: 150px;
+  margin-bottom: 10px;
+  background-color: white;
+  width: 700px;
+  height: 80px;
+  display: flex;
+  padding-top: 10px;
+  padding-left: 20px;
+  
+}
+.verify2{
+ margin-left: 150px;
+  margin-bottom: 10px;
+  background-color: white;
+  width: 700px;
+  height: 80px;
+  display: flex;
+  padding-top: 10px;
+  padding-left: 20px;
+  
+}
+.pay-address{
+  text-align: left;
+}
+.change-btn button {
+  height: 40px;
+  width: 100px;
+  margin-top: 10px;
+  border: 0;
+  background-color:rgb(17, 167, 236);
+  border-radius: 5px;
+  margin-left: 200px;
+}
+.change-btn1 button {
+  height: 40px;
+  width: 100px;
+  margin-top: 10px;
+  border: 0;
+  background-color:rgb(17, 167, 236);
+  border-radius: 5px;
+  margin-left:430px;
+}
+.pay-meth{
+  display: flex;
+  background-color: whitesmoke;
+}
+
+.total-price1{
+  display: flex;
+}
+.total-price1 h5{
+  margin-left: 100px;
+  margin-top: 15px;
+}
+.total-price1 h4{
+  margin-left: 30px;
+}
+
+a{
+  text-decoration: none;
+  color: #000;
+}

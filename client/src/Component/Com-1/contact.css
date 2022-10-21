@@ -1,0 +1,19 @@
+.cantact-full{
+    margin-top:100px;
+    /* background: black; */
+    background: url('https://www.idfreshfood.com/wp-content/uploads/2017/09/contact_us_2.jpg');
+}
+.cantact-full p{
+    margin-bottom: 50px;
+}
+.right-move textarea{
+    margin-left: 20px;
+    margin-top: 50px;
+}
+.right-move button{
+    margin-left: 20px;
+}
+.con-left{
+    padding-right: 300px;
+   
+}

@@ -1,0 +1,103 @@
+
+.pro{
+    display: flex;
+    margin-top: 90px;
+}
+.profile-back{
+    background: whitesmoke;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.profile-left{
+    width: 400px;
+    height: 1100px;
+    background:white;
+    margin-left: 60px;
+    border-radius: 10px;
+    padding-top: 10px;
+    -webkit-box-shadow: 0px 0px 15px -1px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 0px 15px -1px rgba(0,0,0,0.75);
+    box-shadow: 0px 0px 15px -1px rgba(0,0,0,0.75);
+}
+
+
+p span{
+    color:blue;
+    cursor: pointer;
+    margin-left: 50px;
+}
+
+
+
+.profile-left img{
+    width: 40%;
+    margin-bottom: 10px;
+    border-radius: 100px;
+}
+.profile-left input{
+   margin-top: 30px;
+   margin-left: 80px;
+}
+.profile-left li{
+    text-align: justify;
+    padding-left: 100px;
+    margin-top: 50px;
+    cursor: pointer;
+}
+.profile-left button{
+    background: rgb(60, 206, 206);
+    border: 0;
+    width: 200px;
+    margin-top: 200px;
+    height: 50px;
+}
+
+.profile-right{
+    width: 800px;
+    height: 1100px;
+    background:white;
+    border-radius: 10px;
+    margin-left: 30px;
+    padding-left: 10px;
+    -webkit-box-shadow: 0px 0px 15px -1px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 0px 15px -1px rgba(0,0,0,0.75);
+    box-shadow: 0px 0px 15px -1px rgba(0,0,0,0.75);
+    padding-top: 20px;
+    padding-right: 50px;
+    text-align: justify;
+}
+
+.profile-right button{
+    background: rgb(60, 206, 206);
+    border: 0;
+    width: 200px;
+    margin-top: 20px;
+    height: 50px;
+    margin-left: 280px;
+    margin-bottom: 10px;
+    display: none;
+}
+.profile-right p{
+    margin-left: 30px;
+    margin-bottom: -10px;
+}
+.help{
+    margin-left: 80px;
+    margin-top: 50px;
+}
+
+.d-left{
+     margin-top:150px; 
+}
+
+#can{
+    display: none;
+}
+#can1{
+    display: none;
+}
+#can2{
+    display: none;
+}
+
